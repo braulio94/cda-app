@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/braulio94/cda-app/master/app/src/main/res/drawable/cda_logo.png" width="60" height="60"></a> ## cda-app
+ ## cda-app <img src="https://raw.githubusercontent.com/braulio94/cda-app/master/app/src/main/res/drawable/cda_logo.png" width="60" height="60"></a>
 A App CDA terá como principal objetivo demostrar habilidades e competências individuais e coletivas dos membros do CDA para potencial empregadores, contratadores de freelancers e a sociedade em geral.
 
 # Screenshots
